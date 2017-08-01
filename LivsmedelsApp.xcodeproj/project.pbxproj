@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		6214C9641F2CC2D800D9B6F4 /* Food.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6214C9631F2CC2D800D9B6F4 /* Food.swift */; };
 		62A950F91F2DFD9800155EC7 /* DetailedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62A950F81F2DFD9800155EC7 /* DetailedViewController.swift */; };
+		62D3A3791F30AF4F0006EA7C /* AnimationsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62D3A3781F30AF4F0006EA7C /* AnimationsViewController.swift */; };
 		62D7037C1E5D999A001AAC1E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62D7037B1E5D999A001AAC1E /* AppDelegate.swift */; };
 		62D7037E1E5D999A001AAC1E /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62D7037D1E5D999A001AAC1E /* SearchViewController.swift */; };
 		62D703811E5D999A001AAC1E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 62D7037F1E5D999A001AAC1E /* Main.storyboard */; };
@@ -21,6 +22,7 @@
 /* Begin PBXFileReference section */
 		6214C9631F2CC2D800D9B6F4 /* Food.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Food.swift; sourceTree = "<group>"; };
 		62A950F81F2DFD9800155EC7 /* DetailedViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailedViewController.swift; sourceTree = "<group>"; };
+		62D3A3781F30AF4F0006EA7C /* AnimationsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnimationsViewController.swift; sourceTree = "<group>"; };
 		62D703781E5D999A001AAC1E /* LivsmedelsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LivsmedelsApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		62D7037B1E5D999A001AAC1E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		62D7037D1E5D999A001AAC1E /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 				62D7038F1E5DA6EF001AAC1E /* TableViewController.swift */,
 				6214C9631F2CC2D800D9B6F4 /* Food.swift */,
 				62A950F81F2DFD9800155EC7 /* DetailedViewController.swift */,
+				62D3A3781F30AF4F0006EA7C /* AnimationsViewController.swift */,
 			);
 			path = LivsmedelsApp;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				62D3A3791F30AF4F0006EA7C /* AnimationsViewController.swift in Sources */,
 				62D7037E1E5D999A001AAC1E /* SearchViewController.swift in Sources */,
 				62D7037C1E5D999A001AAC1E /* AppDelegate.swift in Sources */,
 				62A950F91F2DFD9800155EC7 /* DetailedViewController.swift in Sources */,
